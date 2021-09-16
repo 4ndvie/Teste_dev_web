@@ -1,0 +1,914 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: lato;
+}
+/*home principal*/
+#home_principal {
+  position: relative;
+  width: 1280px;
+  height: 3477px;
+  background: #ffffff;
+  top: -728px;
+  left: -539px;
+}
+/*retangulo 1*/
+
+#retangulo_1 {
+  position: absolute;
+  width: 1281px;
+  height: 38px;
+  left: -2px;
+  top: -1px;
+  background: #041e50;
+}
+
+/*COMPRA 100%*/
+#compra_100 {
+  position: absolute;
+  width: 122px;
+  height: 10px;
+  left: 172px;
+  top: 15px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 100%;
+  /* identical to box height, or 10px */
+
+  letter-spacing: 0.05em;
+
+  color: #ffffff;
+}
+
+/*Linha 9*/
+#linha_9 {
+  position: absolute;
+  width: 19px;
+  height: 0px;
+  left: 361px;
+  top: 9px;
+
+  border: 1px solid #ffffff;
+  transform: rotate(90deg);
+}
+
+/*1 troca grátis*/
+#troca_gratis {
+  position: absolute;
+  width: 100px;
+  height: 10px;
+  left: 468px;
+  top: 15px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 100%;
+  /* identical to box height, or 10px */
+
+  letter-spacing: 0.05em;
+
+  color: #ffffff;
+}
+/*Icone de porcentagem*/
+#porcentagem img {
+  position: absolute;
+  left: 54.1%;
+  right: 44.59%;
+  top: 15.32%;
+  bottom: 99.15%;
+
+  transform: rotate(-5.14deg);
+}
+/* 5X Sem juros*/
+
+#sem_juros {
+  position: absolute;
+  width: 100px;
+  height: 10px;
+  left: 730px;
+  top: 15px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 100%;
+  /* identical to box height, or 10px */
+
+  letter-spacing: 0.05em;
+
+  color: #ffffff;
+}
+/*logo de entregas*/
+#entregas img {
+  position: absolute;
+  left: 73.57%;
+  right: 24.42%;
+  top: 15%;
+  bottom: 99.22%;
+}
+/*Entregas em todo Brasil*/
+#entregas_brasil {
+  position: absolute;
+  width: 159px;
+  height: 10px;
+  left: 983px;
+  top: 15px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 100%;
+  /* identical to box height, or 10px */
+
+  letter-spacing: 0.05em;
+
+  color: #ffffff;
+}
+/*logo ninja*/
+#logo img {
+  position: absolute;
+  width: 180px;
+  height: 28px;
+  left: 140px;
+  top: 62px;
+}
+
+#logowhatsapp img {
+  position: absolute;
+  left: 58.49%;
+  right: 39.81%;
+  top: 9.67%;
+  bottom: 97.54%;
+}
+#numerowp {
+  position: absolute;
+  width: 83px;
+  height: 10px;
+  left: 820px;
+  top: 70px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 100%;
+  /* identical to box height, or 10px */
+
+  letter-spacing: 0.05em;
+
+  color: #041e50;
+}
+/*formatação do logo de visitante*/
+#visitante img {
+  position: absolute;
+  left: 70.39%;
+  right: 28.2%;
+  top: 9.55%;
+  bottom: 97.56%;
+}
+#olavisitante {
+  position: absolute;
+  width: 100px;
+  height: 10px;
+  left: 970px;
+  top: 60px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 100%;
+  /* identical to box height, or 10px */
+
+  letter-spacing: 0.09em;
+
+  color: #041e50;
+}
+
+#minhaconta {
+  position: absolute;
+  width: 87px;
+  height: 7px;
+  left: 971px;
+  top: 80px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 7px;
+  line-height: 100%;
+  /* identical to box height, or 7px */
+
+  letter-spacing: 0.09em;
+
+  color: #041e50;
+}
+
+#retangulo_3 {
+  position: absolute;
+  width: 77px;
+  height: 102px;
+  left: 1063px;
+  top: 37px;
+
+  background: #041e50;
+}
+
+#retangulo_3 img {
+  position: absolute;
+  left: 18.23%;
+  right: 13.04%;
+  top: 10.61%;
+  bottom: 97.6%;
+}
+#carrinho {
+  position: absolute;
+  width: 79px;
+  height: 7px;
+  left: 8px;
+  top: 48px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 7px;
+  line-height: 100%;
+  /* identical to box height, or 7px */
+
+  letter-spacing: 0.09em;
+
+  color: #ffffff;
+}
+/*quantidade de itens no carrinho*/
+
+#qtditens {
+  position: absolute;
+  width: 50px;
+  height: 10px;
+  left: 14px;
+  top: 60px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 100%;
+  /* identical to box height, or 10px */
+
+  letter-spacing: 0.09em;
+
+  color: #ffffff;
+}
+
+/*Linha 2*/
+#linha_2 {
+  position: absolute;
+  width: 1280px;
+  height: 0px;
+  left: 0px;
+  top: 113px;
+
+  border: 1px solid rgba(120, 117, 117, 0.22);
+}
+/*Campo de texto da busca*/
+#txtBusca {
+  position: absolute;
+  width: 339px;
+  height: 41px;
+  left: 361px;
+  top: 54px;
+
+  border: 1px solid #707070;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+/*Campo de sugestão ao leitor*/
+#txtBusca::-moz-placeholder {
+  position: absolute;
+  width: 73px;
+  height: 9px;
+  left: 388px;
+  top: 70px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 9px;
+  line-height: 100%;
+  /* identical to box height, or 9px */
+
+  letter-spacing: 0.05em;
+
+  color: #707070;
+}
+/*campo de menu*/
+.menu_horizontal {
+  position: absolute;
+  width: 129px;
+  height: 10px;
+  left: 140px;
+  top: 128px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 100%;
+  /* identical to box height, or 10px */
+
+  letter-spacing: 0.09em;
+
+  color: #041e50;
+}
+/*lista não ordenada*/
+#menu_h {
+  list-style: none;
+}
+#menu_h li {
+  display: inline;
+}
+#menu_h li a {
+  text-decoration: none;
+  display: inline;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 100%;
+  /* identical to box height, or 10px */
+
+  letter-spacing: 0.09em;
+
+  color: #041e50;
+}
+#prim_li {
+  position: absolute;
+  width: 150px;
+  height: 10px;
+  left: 5px;
+  top: 15px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 100%;
+  /* identical to box height, or 10px */
+
+  letter-spacing: 0.09em;
+
+  color: #041e50;
+}
+#seg_li {
+  position: absolute;
+  width: 1335px;
+  height: 10px;
+  left: 210px;
+  top: 15px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 100%;
+  /* identical to box height, or 10px */
+
+  letter-spacing: 0.09em;
+
+  color: #041e50;
+}
+#ter_li {
+  position: absolute;
+  width: 160px;
+  height: 10px;
+  left: 410px;
+  top: 15px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 100%;
+  /* identical to box height, or 10px */
+
+  letter-spacing: 0.09em;
+
+  color: #041e50;
+}
+#quar_li {
+  position: absolute;
+  width: 72px;
+  height: 10px;
+  left: 680px;
+  top: 15px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 100%;
+  /* identical to box height, or 10px */
+
+  letter-spacing: 0.09em;
+
+  color: #041e50;
+}
+#quint_li {
+  position: absolute;
+  width: 53px;
+  height: 10px;
+  left: 830px;
+  top: 15px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 100%;
+  /* identical to box height, or 10px */
+
+  letter-spacing: 0.09em;
+
+  color: #041e50;
+}
+#imagemfundo img {
+  position: absolute;
+  width: 1280px;
+  height: 504px;
+  left: -1px;
+  top: 175px;
+}
+#novos_produtos {
+  position: absolute;
+  width: 235px;
+  height: 16px;
+  left: 255px;
+  top: 284px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 100%;
+  /* identical to box height, or 16px */
+
+  letter-spacing: 0.4em;
+
+  color: #ffffff;
+}
+
+#instru_prof {
+  position: absolute;
+  width: 403px;
+  height: 47px;
+  left: 165px;
+  top: 380px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 47px;
+  line-height: 100%;
+  /* identical to box height, or 47px */
+
+  letter-spacing: 0.12em;
+
+  color: #ffffff;
+}
+#instru_prof span {
+  position: absolute;
+  width: 414px;
+  height: 47px;
+  left: 1px;
+  top: -50px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 47px;
+  line-height: 100%;
+  /* identical to box height, or 47px */
+
+  letter-spacing: 0.09em;
+
+  color: #ffffff;
+}
+
+#confira {
+  position: absolute;
+  width: 111px;
+  height: 31px;
+  left: 336px;
+  top: 473px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 100%;
+  /* or 13px */
+
+  letter-spacing: 0.1em;
+
+  color: #ffffff;
+}
+#imagemfundo hr {
+  position: absolute;
+  width: 77px;
+  height: 0px;
+  left: 330px;
+  top: 502px;
+
+  border: 1px solid #ffffff;
+}
+#guitarras small {
+  position: absolute;
+  width: 88px;
+  height: 14px;
+  left: 149px;
+  top: 820px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 100%;
+  /* identical to box height, or 14px */
+
+  letter-spacing: 0.09em;
+
+  color: #000000;
+}
+
+#guitarras img {
+  position: absolute;
+  width: 106px;
+  height: 106px;
+  left: 140px;
+  top: 694px;
+}
+#microfones small {
+  position: absolute;
+  width: 104px;
+  height: 14px;
+  left: 320px;
+  top: 820px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 100%;
+  /* identical to box height, or 14px */
+
+  letter-spacing: 0.09em;
+
+  color: #000000;
+}
+#microfones img {
+  position: absolute;
+  width: 106px;
+  height: 105px;
+  left: 319px;
+  top: 694px;
+}
+#mesadesom small {
+  position: absolute;
+  width: 120px;
+  height: 14px;
+  left: 498px;
+  top: 820px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 100%;
+  /* identical to box height, or 14px */
+
+  letter-spacing: 0.09em;
+
+  color: #000000;
+}
+#mesadesom img {
+  position: absolute;
+  width: 106px;
+  height: 105px;
+  left: 498px;
+  top: 694px;
+}
+#teclados small {
+  position: absolute;
+  width: 81px;
+  height: 14px;
+  left: 690px;
+  top: 820px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 100%;
+  /* identical to box height, or 14px */
+
+  letter-spacing: 0.09em;
+
+  color: #000000;
+}
+#teclados img {
+  position: absolute;
+  width: 106px;
+  height: 105px;
+  left: 678px;
+  top: 694px;
+}
+#violao small {
+  position: absolute;
+  width: 60px;
+  height: 14px;
+  left: 879px;
+  top: 820px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 100%;
+  /* identical to box height, or 14px */
+
+  letter-spacing: 0.09em;
+
+  color: #000000;
+}
+#violao img {
+  position: absolute;
+  width: 106px;
+  height: 105px;
+  left: 857px;
+  top: 694px;
+}
+#baterias small {
+  position: absolute;
+  width: 74px;
+  height: 14px;
+  left: 1051px;
+  top: 820px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 100%;
+  /* identical to box height, or 14px */
+
+  letter-spacing: 0.09em;
+
+  color: #000000;
+}
+#baterias img {
+  position: absolute;
+  width: 106px;
+  height: 105px;
+  left: 1036px;
+  top: 694px;
+}
+#audiopro img {
+  position: absolute;
+  width: 642px;
+  height: 386px;
+  left: -1px;
+  top: 869px;
+}
+#novidades {
+  position: absolute;
+  width: 116px;
+  height: 13px;
+  left: 264px;
+  top: 985px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 100%;
+  /* identical to box height, or 13px */
+
+  letter-spacing: 0.4em;
+
+  color: #ffffff;
+}
+#audiopro hr {
+  position: absolute;
+  width: 18px;
+  height: 1px;
+  left: 314px;
+  top: 1009px;
+
+  background: #ffffff;
+  border-radius: 5px;
+}
+#txtaudiopro {
+  position: absolute;
+  width: 327px;
+  height: 40px;
+  left: 157px;
+  top: 1076px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 40px;
+  line-height: 100%;
+  /* identical to box height, or 40px */
+
+  letter-spacing: 0.12em;
+
+  color: #ffffff;
+}
+#audiopro span {
+  position: absolute;
+  width: 150px;
+  height: 41px;
+  left: 90px;
+  top: -50px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 41px;
+  line-height: 100%;
+  /* identical to box height, or 41px */
+
+  letter-spacing: 0.09em;
+
+  color: #ffffff;
+}
+#audiopro button {
+  position: absolute;
+  width: 154px;
+  height: 52px;
+  left: 243px;
+  top: 1145px;
+
+  border: 1px solid #ffffff;
+  box-sizing: border-box;
+  border-radius: 5px;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 100%;
+  letter-spacing: 0.1em;
+}
+#instrumentosmusic img {
+  position: absolute;
+  width: 639px;
+  height: 386px;
+  left: 641px;
+  top: 869px;
+}
+#txtnovidades {
+  position: absolute;
+  width: 116px;
+  height: 13px;
+  left: 905px;
+  top: 985px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 100%;
+  /* identical to box height, or 13px */
+
+  letter-spacing: 0.4em;
+
+  color: #ffffff;
+}
+#instrumentosmusic hr {
+  position: absolute;
+  width: 18px;
+  height: 1px;
+  left: 954px;
+  top: 1009px;
+
+  background: #ffffff;
+  border-radius: 5px;
+}
+
+#txtinstruprof {
+  position: absolute;
+  width: 216px;
+  height: 40px;
+  left: 852px;
+  top: 1076px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 40px;
+  line-height: 100%;
+  /* identical to box height, or 40px */
+
+  letter-spacing: 0.12em;
+
+  color: #ffffff;
+}
+#instrumentosmusic span {
+  position: absolute;
+  width: 362px;
+  height: 41px;
+  left: -50px;
+  top: -50px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 41px;
+  line-height: 100%;
+  letter-spacing: 0.09em;
+
+  color: #ffffff;
+}
+#instrumentosmusic button {
+  position: absolute;
+  width: 154px;
+  height: 52px;
+  left: 885px;
+  top: 1145px;
+
+  border: 1px solid #ffffff;
+  box-sizing: border-box;
+  border-radius: 5px;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 100%;
+  letter-spacing: 0.1em;
+}
+#destaques {
+  width: 200px;
+  height: 200px;
+  left: 0px;
+  top: 870px;
+  background-color: #000000;
+}
+
+#txtdestaques {
+  position: absolute;
+  width: 136px;
+  height: 23px;
+  left: 679px;
+  top: 1345px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 23px;
+  line-height: 100%;
+  /* identical to box height, or 23px */
+
+  letter-spacing: 0.1em;
+
+  color: #041e50;
+}
+#txtdestaques span {
+  position: absolute;
+  width: 203px;
+  height: 23px;
+  left: 464px;
+  top: 1345px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 23px;
+  line-height: 100%;
+  /* identical to box height, or 23px */
+
+  letter-spacing: 0.1em;
+
+  color: #041e50;
+}
+#retangulobateria {
+  position: absolute;
+  width: 249px;
+  height: 352px;
+  left: 122px;
+  top: 1000px;
+  border-color: #000000;
+  background-color: #000000;
+}
